@@ -7,7 +7,6 @@ import {Socket} from "phoenix"
 //   console.log("Joined succesffuly!", resp)
 // })
 
-let App = {
-}
+alert('Old');
 
 export default App
